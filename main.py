@@ -21,7 +21,7 @@ def GetRandomFortune():
     fortunes = [
     'Family, friends, food. These are what matter most.',
     'Slow down! Life is to be savored.',
-    'Moderation in all things, including moderation.'
+    'Moderation in all things, including moderation.',
     'Abstain from wine, women, and song. Especially song.'
     ]
     fortune_num = random.randint(0,3)
